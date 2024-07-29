@@ -56,7 +56,7 @@ align="center"c>
 		${pageIndexList }
 	</c:if>
 	<c:if test="${dataCount ==0 }">
-		뭐요
+		ajkdfh;lkjadf
 	</c:if>
 	</td>
 </tr>
